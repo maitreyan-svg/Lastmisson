@@ -1,0 +1,6 @@
+{
+  "name": "JEE Mission 2027 - Distraction-Free Study Dashboard",
+  "description": "Premium, minimal JEE 2027 study dashboard with distraction-free YouTube player, manual daily targets, chapter tracker, countdown, study timer, and history calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
